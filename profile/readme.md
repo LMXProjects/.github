@@ -2,8 +2,8 @@
 ![LMX Projects - Github_2024](https://github.com/user-attachments/assets/c385cf90-3e5b-4341-a749-be72c11d068c)
 
 Managed by the **LMX Projects team**, this space allows you to:
-- View the open source code of your projects at any time.
-- Modify and save your code according to your future developments.
+- Explore the open source code of your project at any time.
+- Fork and open pull request to grow the project.
 
 :left_speech_bubble: For any questions, please contact us on: [https://lmxprojects.com](https://lmxprojects.com)
 
