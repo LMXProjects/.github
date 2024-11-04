@@ -1,5 +1,5 @@
 # Welcome to LMX Projects ⚡️
-![LMX Projects - Github](https://github.com/user-attachments/assets/3495d56a-9e1b-458e-8964-00751206e015)
+![LMX Projects - Github_2024](https://github.com/user-attachments/assets/c385cf90-3e5b-4341-a749-be72c11d068c)
 
 Managed by the **LMX Projects team**, this space allows you to:
 - View the open source code of your projects at any time.
